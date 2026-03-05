@@ -1,0 +1,21 @@
+{
+    "account_id": "account_001",
+    "company_name": "",
+    "business_hours": "",
+    "office_address": "",
+    "services_supported": [
+        "pressure washing",
+        "repair"
+    ],
+    "emergency_definition": [
+        "emergency"
+    ],
+    "emergency_routing_rules": "",
+    "non_emergency_routing_rules": "",
+    "call_transfer_rules": "the main line will be working fine on like only the incoming calls are getting forwarded to Clara, but everything. So you can make outbound calls using your number, you can text back and forth, all of that is still, you know, pretty much the same. Perfect. Exactly. Okay. So that is with the officers, but coming to after hours, Ben, do you do any kind of dispatch for after hours? No, we don't do emergency calls. Except for, you",
+    "integration_constraints": [],
+    "after_hours_flow_summary": "you know, answering service out. So you can just call in and drop all the context and I'll Sure. I'll be there. The call will be patched through right to me. Okay, perfect. Cool. So that covers the after hours as well, because there's only one property or, you know, one customer. Yeah, there's is really only the one customer. Yeah. For everyone else will just have it as you know, we'll get back to you in the next business",
+    "office_hours_flow_summary": "",
+    "questions_or_unknowns": [],
+    "notes": []
+}

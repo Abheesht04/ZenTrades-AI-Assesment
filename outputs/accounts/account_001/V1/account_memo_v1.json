@@ -1,0 +1,21 @@
+{
+    "account_id": "account_001",
+    "company_name": "",
+    "business_hours": "",
+    "office_address": "",
+    "services_supported": [
+        "repair",
+        "pressure washing"
+    ],
+    "emergency_definition": [
+        "emergency"
+    ],
+    "emergency_routing_rules": "",
+    "non_emergency_routing_rules": "",
+    "call_transfer_rules": " 26 ---\nis still, you know, pretty much the same. Exactly. So that is with the officers, but coming to after hours been do you do any kind of dispatch for after hours. No, we don't do emergency calls. Except for, you know, our existing builders. And I've got one property manager that sometimes they've got some they've got gas stations that are running 24 seven. So, short answer is no, but yes for one particular company. Okay, so if you have\n\n",
+    "integration_constraints": [],
+    "after_hours_flow_summary": " 32 ---\nBecause yeah, there's several properties, about 20 gas stations around the city that we work in. Yeah, you probably have to just let her know, hey, I'm trying this, you know, answering service out so you can just call in and drop all the context and I'll be there. The call will be patched through right to me. Okay, perfect. Cool. So, that covers the after hours as well, because there's only one property or, you know, one customer. Yeah,\n\n",
+    "office_hours_flow_summary": "",
+    "questions_or_unknowns": [],
+    "notes": []
+}

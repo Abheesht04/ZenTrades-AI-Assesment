@@ -1,0 +1,40 @@
+[
+    {
+        "field": "services_supported",
+        "before": [
+            "maintenance",
+            "electrical"
+        ],
+        "after": [
+            "electrical",
+            "maintenance"
+        ]
+    },
+    {
+        "field": "call_transfer_rules",
+        "before": " 119 ---\nnumber. Of course. Now I've got hundreds of contacts in. In this phone from family and friends, so I've got to transfer all that information over. But how do I get Clara to answer numbers that call into this phone? I must have to put an app on my phone or something. Right. So we can have a forwarding setup. That's one and second. Is that in that case we can have it forwarded to a fresh number which we\n\n",
+        "after": "number. Of course. Now I've got hundreds of contacts in. In this phone from family and friends, so I've got to transfer all that information over. But how do I get Clara to answer numbers that call into this phone? I must have to put an app on my phone or something. Right. So we can have a forwarding setup. That's one and second. Is that in that case we can have it forwarded to a fresh number which we"
+    },
+    {
+        "field": "after_hours_flow_summary",
+        "before": " 42 ---\nalso building certain AI solutions that can help you with your back office things. Do you remember any of those things or. No. Okay, so I'm going to tell you everything from scratch then. No, I. So we'll start with this most simplest thing. What's. What we've tried to build is a solution that can help you. Specifically, since you mentioned that you're the one taking calls, you probably get calls after hours, you probably get calls from emergencies you\n\n",
+        "after": "also building certain AI solutions that can help you with your back office things. Do you remember any of those things or. No. Okay, so I'm going to tell you everything from scratch then. No, I. So we'll start with this most simplest thing. What's. What we've tried to build is a solution that can help you. Specifically, since you mentioned that you're the one taking calls, you probably get calls after hours, you probably get calls from emergencies you"
+    },
+    {
+        "field": "notes",
+        "before": [
+            "phone detected: ['403-975-1773', '403-975-1773']",
+            "phone detected: ['141 ---\\n500']",
+            "phone detected: ['160 ---\\n30']",
+            "email detected: ['Ben@Benselectricsolutionsteam.com']",
+            "phone detected: ['5526-1220-0052-4781']"
+        ],
+        "after": [
+            "phone detected: ['5526-1220-0052-4781']",
+            "email detected: ['Ben@Benselectricsolutionsteam.com']",
+            "phone detected: ['403-975-1773', '403-975-1773']",
+            "phone detected: ['160 ---\\n30']",
+            "phone detected: ['141 ---\\n500']"
+        ]
+    }
+]

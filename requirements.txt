@@ -1,0 +1,7 @@
+openai-whisper
+torch
+numpy
+tqdm
+more-itertools
+numba
+ffmpeg-python
